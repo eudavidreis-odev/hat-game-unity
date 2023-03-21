@@ -15,4 +15,4 @@ Este app foi criado com base no curso [Desenvolvimento de games 2D mobile com Un
 
 ## Instalar o jogo
 
-Caso deseje testar o jogo, instale o arquivo Hat-Game.apk que está disponível para dowload junto com o projeto.
+Caso deseje testar o jogo, instale o arquivo [Hat-Game.apk](https://drive.google.com/file/d/1KNR6gebDJv4CTqEtMjV96qvGiExztAKx/view?usp=share_link) que está disponível para dowload junto com o projeto.
