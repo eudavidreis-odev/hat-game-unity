@@ -5,13 +5,13 @@ Este app foi criado com base no curso [Desenvolvimento de games 2D mobile com Un
 
 ## **Screenshots**
 
-![](./ImagesReadme\MainMenu.jpeg)
+![](https://github.com/EuDavidReis-ODev/hat-game-unity/blob/master/ImagesReadme/MainMenu.jpeg?raw=true)
 
-![](.\ImagesReadme\Game.jpeg)
+![](https://github.com/EuDavidReis-ODev/hat-game-unity/blob/master/ImagesReadme/Game.jpeg?raw=true)
 
-![](./ImagesReadme\Pause.jpeg)
+![](https://github.com/EuDavidReis-ODev/hat-game-unity/blob/master/ImagesReadme/Pause.jpeg?raw=true)
 
-![](./ImagesReadme\GameOver.jpeg)
+![](https://github.com/EuDavidReis-ODev/hat-game-unity/blob/master/ImagesReadme/GameOver.jpeg?raw=true)
 
 ## Instalar o jogo
 
